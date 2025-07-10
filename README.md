@@ -1,2 +1,4 @@
 ﻿# Project-Portofolio
 Repositori ini berisi proyek-proyek data analysis yang saya kerjakan, antara lain analisis penyakit jantung menggunakan data medis untuk menemukan faktor risiko utama, serta prediksi penjualan BBM berbasis time series untuk membantu estimasi distribusi energi. Proses meliputi data preprocessing, eksplorasi data, visualisasi, serta pembuatan model analitik dan prediktif menggunakan Python
+# Analisis Penyakit Jantung
+Proyek ini bertujuan untuk menganalisis faktor-faktor yang mempengaruhi risiko penyakit jantung menggunakan dataset yang saya dapatkan dari kaggle. Saya melakukan proses data cleaning, eksplorasi data (EDA), dan visualisasi untuk mengidentifikasi pola dari variabel seperti usia, tekanan darah, kolesterol, dan detak jantung. Selain itu, saya juga melakukan modeling sederhana untuk memprediksi kemungkinan pasien terkena penyakit jantung berdasarkan fitur yang tersedia.
